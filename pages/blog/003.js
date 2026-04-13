@@ -83,6 +83,7 @@ export default function Blog003() {
 
           <div style={{ display: "flex", justifyContent: "space-between", marginTop: 40 }}>
             <Link href="/blog/002"><span style={{ fontFamily: "'IBM Plex Mono',monospace", fontSize: 12, color: t.ac, cursor: "pointer" }}>← 002</span></Link>
+<Link href="/blog/004"><span style={{ fontFamily: "'IBM Plex Mono',monospace", fontSize: 12, color: t.ac, cursor: "pointer" }}>004 →</span></Link>
             <span />
           </div>
         </div>
