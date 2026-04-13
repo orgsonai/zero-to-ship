@@ -13,7 +13,6 @@ export default function Blog003() {
   const h2 = { fontSize: 20, fontWeight: 700, fontFamily: "'Outfit',sans-serif", color: t.text, margin: "40px 0 16px", lineHeight: 1.4 };
   const p = { fontSize: 15, color: t.ts, lineHeight: 2, margin: "0 0 16px" };
   const b = { fontWeight: 700, color: t.text };
-  const li = { fontSize: 14, color: t.ts, lineHeight: 1.9, marginBottom: 4 };
 
   return (
     <>
